@@ -51,13 +51,13 @@ c.lr = 0.00001
 спуска только к слоям классификатора и сохраняем сеть
 
 a.lr = 0.0000001
-![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch__categorical_accuracy%202%200.0000001.svg)
+![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_categorical_accuracy%202%200.0000001.svg)
 ![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_loss%202%200.0000001.svg)
 b.lr = 0.000001
-![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch__categorical_accuracy%202%200.000001.svg)
+![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_categorical_accuracy%202%200.000001.svg)
 ![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_loss%202%200.000001.svg)
 c lr = 0.00001
-![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch__categorical_accuracy%202%200.000001.svg)
+![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_categorical_accuracy%202%200.00001.svg)
 ![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_loss%202%200.000001.svg)
 
 4. Применяем процедуру модификации весов согласно метода градиентного
