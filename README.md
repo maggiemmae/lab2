@@ -63,9 +63,9 @@ c lr = 0.00001
 4. Применяем процедуру модификации весов согласно метода градиентного
 спуска ко всей нейронной сети, предобученной в пункте 4:
 a.lr = 0.000001
-![Image alt](https://github.com/maggiemmae/lab2/blob/master/_categorical_accuracy%203%200.000001.svg)
+![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_categorical_accuracy%203%200.000001.svg)
 ![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_loss%203%200.000001.svg)
 b.lr = 0.00001
-![Image alt](https://github.com/maggiemmae/lab2/blob/master/_categorical_accuracy%203%200.00001.svg)
+![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_categorical_accuracy%203%200.00001.svg)
 ![Image alt](https://github.com/maggiemmae/lab2/blob/master/epoch_loss%203%200.00001.svg)
 
